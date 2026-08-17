@@ -54,10 +54,16 @@ An interactive AI Digital Twin that uses real-time vector search to answer user 
 <details>
 <summary>📹 <strong>Demo Video</strong> (Click to expand)</summary>
 
-<video width="100%" controls>
-  <source src="https://github.com/Ru-Dipity/RAG-AI-Digital-Twin-with-n8n-Supabase/releases/download/v1.0.0/AI.Agent.Assistant.RAG.Query.Workflow.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="https://github.com/Ru-Dipity/RAG-AI-Digital-Twin-with-n8n-Supabase/releases/download/v1.0.0/AI.Agent.Assistant.RAG.Query.Workflow.mp4">Download video</a>
-</video>
+**AI Agent Assistant Workflow Demo**
+
+This video demonstrates the RAG AI Agent workflow in action, showing:
+- Real-time conversational interaction
+- Vector similarity search queries
+- Memory-enhanced responses using the knowledge base
+
+[⬇️ Download Demo Video (MP4, 408 KB)](https://github.com/Ru-Dipity/RAG-AI-Digital-Twin-with-n8n-Supabase/releases/download/v1.0.0/AI.Agent.Assistant.RAG.Query.Workflow.mp4)
+
+Or view on GitHub Releases: [v1.0.0 Release Page](https://github.com/Ru-Dipity/RAG-AI-Digital-Twin-with-n8n-Supabase/releases/tag/v1.0.0)
 
 </details>
 
