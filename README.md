@@ -53,7 +53,7 @@ An interactive AI Digital Twin that uses real-time vector search to answer user 
 
 📹 **Demo Video**:
 
-<video width="100%" controls>
+<video width="100%" controls autoplay muted loop>
   <source src="AI Agent Assistant (RAG Query Workflow).mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
