@@ -51,21 +51,7 @@ This workflow extracts unstructured or structured user profile data from a Supab
 
 An interactive AI Digital Twin that uses real-time vector search to answer user questions about a user's skills, background, or experience.
 
-<details>
-<summary>📹 <strong>Demo Video</strong> (Click to expand)</summary>
-
-**AI Agent Assistant Workflow Demo**
-
-This video demonstrates the RAG AI Agent workflow in action, showing:
-- Real-time conversational interaction
-- Vector similarity search queries
-- Memory-enhanced responses using the knowledge base
-
-[⬇️ Download Demo Video (MP4, 408 KB)](https://github.com/Ru-Dipity/RAG-AI-Digital-Twin-with-n8n-Supabase/releases/download/v1.0.0/AI.Agent.Assistant.RAG.Query.Workflow.mp4)
-
-Or view on GitHub Releases: [v1.0.0 Release Page](https://github.com/Ru-Dipity/RAG-AI-Digital-Twin-with-n8n-Supabase/releases/tag/v1.0.0)
-
-</details>
+![AI Agent Assistant Workflow](AI%20Agent%20Assistant%20%28RAG%20Query%20Workflow%29.png)
 
 ```
 [ Chat Trigger ] ➔ [ AI Agent (Gemini Flash) ] ➔ [ Response to User ]
